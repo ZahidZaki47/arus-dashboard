@@ -1,0 +1,35 @@
+{
+  "name": "ARUS",
+  "equity": 2999.62,
+  "initial": 3000.0,
+  "pnl_usd": -0.38,
+  "pnl_pct": -0.01,
+  "cash_usd": 2490.6,
+  "holdings": {
+    "SOLUSDT": 6.30518952
+  },
+  "mode": "AKTIF",
+  "held_assets": [
+    "SOL"
+  ],
+  "allocation_pct": {
+    "SOL": 17.0,
+    "USDT": 83.0
+  },
+  "n_trades": 1,
+  "last_trade": {
+    "time": "2026-07-03T17:09:39.571551+00:00",
+    "side": "BELI",
+    "symbol": "SOL",
+    "notional": 509.02,
+    "price": 80.73
+  },
+  "bar_date": "2026-07-02",
+  "updated_at": "2026-07-03T17:09:44.514344+00:00",
+  "history": [
+    {
+      "date": "2026-07-02",
+      "equity": 2999.62
+    }
+  ]
+}
