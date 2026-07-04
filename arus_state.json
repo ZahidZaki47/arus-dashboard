@@ -1,20 +1,27 @@
 {
   "name": "ARUS",
-  "equity": 2999.62,
+  "equity": 3009.77,
   "initial": 3000.0,
-  "pnl_usd": -0.38,
-  "pnl_pct": -0.01,
+  "pnl_usd": 9.77,
+  "pnl_pct": 0.33,
   "cash_usd": 2490.6,
   "holdings": {
     "SOLUSDT": 6.30518952
+  },
+  "positions": {
+    "SOL": {
+      "qty": 6.30518952,
+      "avg_cost": 80.73,
+      "since": "2026-07-03T17:09:39.571551+00:00"
+    }
   },
   "mode": "AKTIF",
   "held_assets": [
     "SOL"
   ],
   "allocation_pct": {
-    "SOL": 17.0,
-    "USDT": 83.0
+    "SOL": 17.2,
+    "USDT": 82.8
   },
   "n_trades": 1,
   "last_trade": {
@@ -24,12 +31,16 @@
     "notional": 509.02,
     "price": 80.73
   },
-  "bar_date": "2026-07-02",
-  "updated_at": "2026-07-03T17:20:51.527643+00:00",
+  "bar_date": "2026-07-03",
+  "updated_at": "2026-07-04T03:45:50.483086+00:00",
   "history": [
     {
       "date": "2026-07-02",
       "equity": 2999.62
+    },
+    {
+      "date": "2026-07-03",
+      "equity": 3009.77
     }
   ]
 }
