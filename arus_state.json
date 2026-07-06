@@ -1,17 +1,17 @@
 {
   "name": "ARUS",
-  "equity": 3006.36,
+  "equity": 3004.98,
   "initial": 3000.0,
-  "pnl_usd": 6.36,
-  "pnl_pct": 0.21,
-  "cash_usd": 2490.6,
+  "pnl_usd": 4.98,
+  "pnl_pct": 0.17,
+  "cash_usd": 2415.15,
   "holdings": {
-    "SOLUSDT": 6.30518952
+    "SOLUSDT": 7.22922964
   },
   "positions": {
     "SOL": {
-      "qty": 6.30518952,
-      "avg_cost": 80.73,
+      "qty": 7.22922964,
+      "avg_cost": 80.8478,
       "since": "2026-07-03T17:09:39.571551+00:00"
     }
   },
@@ -20,19 +20,19 @@
     "SOL"
   ],
   "allocation_pct": {
-    "SOL": 17.2,
-    "USDT": 82.8
+    "SOL": 19.6,
+    "USDT": 80.4
   },
-  "n_trades": 1,
+  "n_trades": 2,
   "last_trade": {
-    "time": "2026-07-03T17:09:39.571551+00:00",
+    "time": "2026-07-06T04:57:56.398856+00:00",
     "side": "BELI",
     "symbol": "SOL",
-    "notional": 509.02,
-    "price": 80.73
+    "notional": 75.39,
+    "price": 81.59
   },
-  "bar_date": "2026-07-04",
-  "updated_at": "2026-07-05T04:34:01.121819+00:00",
+  "bar_date": "2026-07-05",
+  "updated_at": "2026-07-06T04:58:03.058233+00:00",
   "history": [
     {
       "date": "2026-07-02",
@@ -45,6 +45,10 @@
     {
       "date": "2026-07-04",
       "equity": 3006.36
+    },
+    {
+      "date": "2026-07-05",
+      "equity": 3004.98
     }
   ]
 }
