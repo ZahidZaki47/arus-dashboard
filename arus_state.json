@@ -1,14 +1,14 @@
 {
   "name": "ARUS",
-  "equity": 3030.88,
+  "equity": 3024.99,
   "initial": 3000.0,
-  "pnl_usd": 30.88,
-  "pnl_pct": 1.03,
-  "cash_usd": 2365.83,
+  "pnl_usd": 24.99,
+  "pnl_pct": 0.83,
+  "cash_usd": 2389.84,
   "holdings": {
     "ETHUSDT": 0.07632329,
     "LINKUSDT": 16.63039014,
-    "SOLUSDT": 1.82747107
+    "AVAXUSDT": 17.4850038
   },
   "positions": {
     "ETH": {
@@ -21,34 +21,34 @@
       "avg_cost": 11.3335,
       "since": "2026-09-01T05:17:47.930738+00:00"
     },
-    "SOL": {
-      "qty": 1.82747107,
-      "avg_cost": 103.1374,
-      "since": "2026-09-01T05:17:47.930738+00:00"
+    "AVAX": {
+      "qty": 17.4850038,
+      "avg_cost": 10.9534,
+      "since": "2026-10-01T06:06:12.600789+00:00"
     }
   },
   "mode": "AKTIF",
   "held_assets": [
     "ETH",
     "LINK",
-    "SOL"
+    "AVAX"
   ],
   "allocation_pct": {
-    "ETH": 6.7,
-    "LINK": 8.0,
-    "SOL": 7.2,
-    "USDT": 78.1
+    "ETH": 6.8,
+    "LINK": 7.9,
+    "AVAX": 6.3,
+    "USDT": 79.0
   },
-  "n_trades": 10,
+  "n_trades": 12,
   "last_trade": {
-    "time": "2026-09-01T05:17:47.930738+00:00",
+    "time": "2026-10-01T06:06:12.600789+00:00",
     "side": "BELI",
-    "symbol": "SOL",
-    "notional": 188.34,
-    "price": 103.06
+    "symbol": "AVAX",
+    "notional": 191.23,
+    "price": 10.937
   },
-  "bar_date": "2026-09-29",
-  "updated_at": "2026-09-30T05:40:32.551442+00:00",
+  "bar_date": "2026-09-30",
+  "updated_at": "2026-10-01T06:06:19.687543+00:00",
   "history": [
     {
       "date": "2026-07-02",
@@ -409,6 +409,10 @@
     {
       "date": "2026-09-29",
       "equity": 3030.88
+    },
+    {
+      "date": "2026-09-30",
+      "equity": 3024.99
     }
   ]
 }
