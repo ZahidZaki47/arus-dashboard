@@ -1,19 +1,19 @@
 {
   "name": "ARUS",
-  "equity": 2926.46,
+  "equity": 2922.44,
   "initial": 3000.0,
-  "pnl_usd": -73.54,
-  "pnl_pct": -2.45,
-  "cash_usd": 2325.4,
+  "pnl_usd": -77.56,
+  "pnl_pct": -2.59,
+  "cash_usd": 2260.09,
   "holdings": {
-    "ETHUSDT": 0.07632329,
+    "ETHUSDT": 0.10363603,
     "LINKUSDT": 16.63039014,
     "AVAXUSDT": 24.08164312
   },
   "positions": {
     "ETH": {
-      "qty": 0.07632329,
-      "avg_cost": 2469.5021,
+      "qty": 0.10363603,
+      "avg_cost": 2448.8625,
       "since": "2026-09-01T05:17:47.930738+00:00"
     },
     "LINK": {
@@ -34,21 +34,21 @@
     "AVAX"
   ],
   "allocation_pct": {
-    "ETH": 6.2,
-    "LINK": 6.8,
+    "ETH": 8.5,
+    "LINK": 6.7,
     "AVAX": 7.5,
-    "USDT": 79.5
+    "USDT": 77.3
   },
-  "n_trades": 13,
+  "n_trades": 14,
   "last_trade": {
-    "time": "2026-10-21T04:58:21.389570+00:00",
+    "time": "2026-10-24T04:45:46.113381+00:00",
     "side": "BELI",
-    "symbol": "AVAX",
-    "notional": 64.35,
-    "price": 9.755
+    "symbol": "ETH",
+    "notional": 65.21,
+    "price": 2387.6
   },
-  "bar_date": "2026-10-22",
-  "updated_at": "2026-10-23T05:00:55.400799+00:00",
+  "bar_date": "2026-10-23",
+  "updated_at": "2026-10-24T04:45:52.312076+00:00",
   "history": [
     {
       "date": "2026-07-02",
@@ -501,6 +501,10 @@
     {
       "date": "2026-10-22",
       "equity": 2926.46
+    },
+    {
+      "date": "2026-10-23",
+      "equity": 2922.44
     }
   ]
 }
