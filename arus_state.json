@@ -1,9 +1,9 @@
 {
   "name": "ARUS",
-  "equity": 2906.47,
+  "equity": 2912.76,
   "initial": 3000.0,
-  "pnl_usd": -93.53,
-  "pnl_pct": -3.12,
+  "pnl_usd": -87.24,
+  "pnl_pct": -2.91,
   "cash_usd": 2190.13,
   "holdings": {
     "ETHUSDT": 0.10363603,
@@ -34,10 +34,10 @@
     "AVAX"
   ],
   "allocation_pct": {
-    "ETH": 8.3,
-    "LINK": 8.9,
+    "ETH": 8.4,
+    "LINK": 9.0,
     "AVAX": 7.4,
-    "USDT": 75.4
+    "USDT": 75.2
   },
   "n_trades": 15,
   "last_trade": {
@@ -47,8 +47,8 @@
     "notional": 69.85,
     "price": 11.456
   },
-  "bar_date": "2026-10-26",
-  "updated_at": "2026-10-27T05:14:33.331434+00:00",
+  "bar_date": "2026-10-27",
+  "updated_at": "2026-10-28T05:53:03.859428+00:00",
   "history": [
     {
       "date": "2026-07-02",
@@ -517,6 +517,10 @@
     {
       "date": "2026-10-26",
       "equity": 2906.47
+    },
+    {
+      "date": "2026-10-27",
+      "equity": 2912.76
     }
   ]
 }
