@@ -1,18 +1,18 @@
 {
   "name": "ARUS",
-  "equity": 2732.54,
+  "equity": 2737.89,
   "initial": 3000.0,
-  "pnl_usd": -267.46,
-  "pnl_pct": -8.92,
-  "cash_usd": 2208.97,
+  "pnl_usd": -262.11,
+  "pnl_pct": -8.74,
+  "cash_usd": 2264.24,
   "holdings": {
-    "LINKUSDT": 22.72783456,
+    "LINKUSDT": 16.76188156,
     "AVAXUSDT": 24.08164312,
     "SOLUSDT": 2.2425317
   },
   "positions": {
     "LINK": {
-      "qty": 22.72783456,
+      "qty": 16.76188156,
       "avg_cost": 11.371,
       "since": "2026-09-01T05:17:47.930738+00:00"
     },
@@ -34,21 +34,21 @@
     "SOL"
   ],
   "allocation_pct": {
-    "LINK": 7.5,
+    "LINK": 5.7,
     "AVAX": 5.8,
     "SOL": 5.8,
-    "USDT": 80.9
+    "USDT": 82.7
   },
-  "n_trades": 17,
+  "n_trades": 18,
   "last_trade": {
-    "time": "2026-11-01T06:20:23.444272+00:00",
-    "side": "BELI",
-    "symbol": "SOL",
-    "notional": 214.25,
-    "price": 95.54
+    "time": "2026-11-27T08:45:40.265432+00:00",
+    "side": "JUAL",
+    "symbol": "LINK",
+    "notional": 55.35,
+    "price": 9.278
   },
-  "bar_date": "2026-11-25",
-  "updated_at": "2026-11-26T08:33:33.467106+00:00",
+  "bar_date": "2026-11-26",
+  "updated_at": "2026-11-27T08:45:47.718805+00:00",
   "history": [
     {
       "date": "2026-07-02",
@@ -637,6 +637,10 @@
     {
       "date": "2026-11-25",
       "equity": 2732.54
+    },
+    {
+      "date": "2026-11-26",
+      "equity": 2737.89
     }
   ]
 }
